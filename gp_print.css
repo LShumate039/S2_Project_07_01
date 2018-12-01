@@ -29,6 +29,7 @@ article {
 
 
 /* Comic Book Sheet Styles */
+/*this makes this part different when printing*/
 section#sheet {
     width: 6in;
     margin: .1in 0in .1in .3in;

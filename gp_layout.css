@@ -22,6 +22,7 @@
 @import url("gp_designs.css");
 
 /* Flex Layout Styles */
+/*this make the body wrap to the bottom of the other element*/
 body {
     display: -webkit-flex;
     display: flex;
